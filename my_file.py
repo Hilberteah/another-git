@@ -13,3 +13,6 @@ def hi_there ():
 
 def hi_there ():
     print('hi')
+
+def hi_there ():
+    print('innocent change')
